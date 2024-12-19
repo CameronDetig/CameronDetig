@@ -5,7 +5,7 @@ I have worked as a previs artist creating early CG representations of high profi
 
 My background also includes an immersive media research experience at GSU and published research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954
 
-Additionally I have experience in virtual reality development using Unity for an NSF funded project at UNCW.
+Additionally I have experience in virtual reality development for educational experiences using Unity for an NSF funded project at UNCW.
 
 ⚡ Skills: Python, C#, C++, Java, Unreal Engine, Unity, Maya, 3D Animation
 
