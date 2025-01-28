@@ -1,5 +1,7 @@
 👋 My name is Cameron and I have a background in technical and artistic disciplines within computer graphics. 
 
+Current Computer Science Master's Student at UNC Charlotte.
+
 UNC Wilmington Alumni with a degree in Computer Science and a concentration in Digital Arts.
 I have worked as a previs artist creating early CG representations of high profile shows and films including the Star Wars series, Ahsoka. 
 
