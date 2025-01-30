@@ -1,4 +1,4 @@
-👋 My name is Cameron and I have a background in technical and artistic disciplines within computer graphics. 
+👋 Hello, my name is Cameron.
 
 Current Computer Science Master's Student at UNC Charlotte.
 
