@@ -1,15 +1,10 @@
-👋 Hello, my name is Cameron.
+👋 Hello, my name is Cameron
 
-Current Computer Science Master's Student at UNC Charlotte.
+Current Computer Science Master's Student at UNC Charlotte studying Artificial Intelligence and Machine Learning.
 
-UNC Wilmington Alumni with a degree in Computer Science and a concentration in Digital Arts.
-I have worked as a previs artist creating early CG representations of high profile shows and films including the Star Wars series, Ahsoka. 
+My background includes experience as a previsualization artist for high profile shows and films including the Star Wars series, Ahsoka. During my undergrad I took part in an Immersive Media Computing Research Experience at GSU and published research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954 Additionally, I have experience in virtual reality development for educational experiences using Unity for an NSF funded project at UNC Wilmington.
 
-My background also includes an immersive media research experience at GSU and published research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954
-
-Additionally I have experience in virtual reality development for educational experiences using Unity for an NSF funded project at UNCW.
-
-⚡ Skills: Python, C#, C++, Java, Unreal Engine, Unity, Maya, 3D Animation
+⚡ Skills: Python, C++, PyTorch, Java, Unreal Engine, Unity, Maya
 
 <!--
 **CameronDetig/CameronDetig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
