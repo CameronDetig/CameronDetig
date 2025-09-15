@@ -1,10 +1,12 @@
 👋 Hello, my name is Cameron
 
-Current Computer Science Master's Student at UNC Charlotte studying Artificial Intelligence and Machine Learning.
+Computer Science Master's Student at UNC Charlotte studying Artificial Intelligence and Machine Learning.
 
-My background includes experience as a previsualization artist for high profile shows and films including the Star Wars series, Ahsoka. During my undergrad I took part in an Immersive Media Computing Research Experience at GSU and published research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954 Additionally, I have experience in virtual reality development for educational experiences using Unity for an NSF funded project at UNC Wilmington.
+Currently I am a graduate research assistant, developing a pipeline in collaboration with developers at Honeywell using LLMs and Snowflake to interpret natural language questions into SQL. I am also a Teaching Assistant in the Design and Development of Generative AI Applications course.
 
-⚡ Skills: Python, C++, PyTorch, Java, Unreal Engine, Unity, Maya
+My background includes experience as a previsualization artist for high profile shows and films including the Star Wars series, Ahsoka. During my undergraduate degree I took part in an Immersive Media Computing Research Experience at GSU and published research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954 Additionally, I have experience in virtual reality development for educational experiences using Unity and C# for an NSF funded project at UNC Wilmington.
+
+⚡ Skills: Python, C++, PyTorch, Java, Unreal Engine, Maya
 
 <!--
 **CameronDetig/CameronDetig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
