@@ -1,12 +1,18 @@
 👋 Hello, my name is Cameron
 
-Computer Science Master's Student at UNC Charlotte studying AI/ML and computer graphics.
+Computer Science Master's Student at UNC Charlotte studying AI/ML and computer graphics. 
 
-Currently I am a graduate research assistant, developing a pipeline in collaboration with developers at Honeywell using LLMs and Snowflake to interpret natural language questions into SQL. I am also a Teaching Assistant in the Design and Development of Generative AI Applications course.
+Currently I am a graduate research assistant, developing a pipeline in collaboration with developers at Honeywell using LLMs and Snowflake to interpret natural language questions into SQL. I am also the Head Instructional Assistant in the Design and Development of Generative AI Applications course.
 
-My background includes experience as a previsualization artist for high profile shows and films including Ahsoka and Predator: Killer of Killers. During my undergraduate degree I took part in an Immersive Media Computing Research Experience at GSU and published research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954 Additionally, I have experience in virtual reality development for educational experiences using Unity and C# for an NSF funded project at UNC Wilmington.
+My background includes experience as a previsualization artist for shows and films including *Ahsoka* and *Predator: Killer of Killers*. During my undergraduate degree I took part in an Immersive Media Computing Research Experience at GSU and published a research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954
 
-⚡ Skills: Python, C++, PyTorch, Unreal Engine, Maya, OpenGL
+⚡ Skills: 
+
+- Programming: Python, C++, SQL
+- AI / ML: Large Language Models (LLMs), Retrieval Augmented Generation (RAG), LangChain, PyTorch, OpenAI API
+- Cloud & Data: Amazon Web Services (AWS), Docker, Snowflake
+- Tools & Libraries: Git, Perforce, OpenGL, CUDA
+- 3D Software: Maya, Unreal Engine
 
 <!--
 **CameronDetig/CameronDetig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
