@@ -1,8 +1,8 @@
 👋 Hello, my name is Cameron
 
-Computer Science Master's Student at UNC Charlotte studying AI/ML and computer graphics. 
+I am an AI Engineer SDET at Ally Financial and recent Computer Science Master's graduate from UNC Charlotte where I studied AI/ML and computer graphics. 
 
-Currently I am a graduate research assistant, developing a pipeline in collaboration with developers at Honeywell using LLMs and Snowflake to interpret natural language questions into SQL. I am also the Head Instructional Assistant in the Design and Development of Generative AI Applications course.
+While there I was a graduate research assistant, developing a pipeline in collaboration with developers at Honeywell using LLMs and Snowflake to interpret natural language questions into SQL. I was also the Head Instructional Assistant in the Design and Development of Generative AI Applications course.
 
 My background includes experience as a previsualization artist for shows and films including *Ahsoka* and *Predator: Killer of Killers*. During my undergraduate degree I took part in an Immersive Media Computing Research Experience at GSU and published a research paper on motion capture technology. https://par.nsf.gov/servlets/purl/10423954
 
